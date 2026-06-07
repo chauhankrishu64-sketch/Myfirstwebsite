@@ -1,0 +1,62 @@
+<center> <h1> My Portfolio </h1> </center>
+
+<center> <h3>Awkash Patel</h3> </center>
+
+<center> <h5>Student</h5> </center>
+
+<center>  <img src="https://picsum.photos/100/100"></center>
+
+<hr>
+
+
+<center> <a href=""> about</a> | <a href=""> education</a></center>
+<hr>
+<U> <b> About me </b> </u> 
+<P>Hello! My name is Awkash Patel. I am learning HTML in Class 12th. I like Web Designing, Programming and Technology. </p>
+<U> <b> Education </b> </u>
+<Table border="4px" bgcolor="yellow">
+<Tr>
+<Th> Class </th>
+<Th> School </th>
+<Th> Percentage </th>
+</Tr>
+<Tr>
+<Td> 10th </td>
+<Td> Swami Vivekanand Vidyalaya </td>
+<Td>81</td>
+</Tr>
+<Tr>
+<Td> 12th </td>
+<Td>Reena Mehta Junior College</td>
+<Td> Pursuing </td>
+</Tr>
+</Table>
+<U><B> Skills</B> </u>
+<Ul type=" disc">
+<Li>Cricket</li>
+<Li>C++</li>
+<Li>html</li>
+<Li>Python</li>
+</Ul>
+<U><B>Projects</B> </u>
+<Ol type="1">
+<Li>Portfolio website</li>
+<Li>Drawing</li>
+<Li>Online quize</li>
+</Ol>
+
+<U><B>Audio</B> </u>
+<audio controls src=" ">  </audio>
+<U><B>Video</B> </u>
+<Video controls src=" ">  </Video>
+<U> <B> contact me </B> </u>
+Name:<input type:"text" placeholder="your name">
+Email:<input type:"text" placeholder="xyz@gmail.com">
+Phone-number:<input type:"text" placeholder="955555555"> 
+Gender:male<input type="radio"> female <input type ="radio">
+<Option> city </Option>
+<Select>
+<Li>nalasopara</li>
+<Li>vasai</li>
+<Li>virar</li>
+</Select>
